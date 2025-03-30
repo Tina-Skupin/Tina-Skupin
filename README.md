@@ -18,13 +18,10 @@ Aside from coding, I’m also a fiction writer and have published several books,
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/tina-skupin-70b94a53/) or per Email [tskupin32@gmail.com] 
 ## :hammer_and_wrench: Tools I Use
 <p align=“left”>
-<img src=“https://github.com/devicons/devicon/tree/v2.16.0/icons/vscode/vscode-original.svg” alt=“vscode” width=“30" height=“30”/>
-<img src=“https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg” alt=“javascript” width=“30" height=“30” />
-<img src=“https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg” alt=“python” width=“30" height=“30”/>
-<img src=“https://github.com/devicons/devicon/blob/v2.16.0/icons/go/go-plain.svg” alt=“docker” width=“30" height=“30”/>
-<img src=“https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg” alt=“git” width=“30" height=“30”/>
-<img src=“https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg” alt=“github” width=“30" height=“30”/>
-<img src=“https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg” alt=“linux” width=“30" height=“30”/>
-<img src=“https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg” alt=“mysql” width=“30" height=“30”/>
-<img src=“https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg” alt=“visualstudio” width=“30" height=“30”/>
+<img src=https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/python/python-original.svg alt="python" width=30 height=30/>
+<img src=https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/vscode/vscode-original.svg alt=“vscode” width=30 height=30/>
+<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg alt=“javascript” width=30 height=30 />
+<img src=https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/go/go-original.svg alt=“golang” width=30 height=30/>
+<img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg alt=“github” width=30 height=30/>
+<img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg alt=“linux” width=30 height=30/>
 </p>
