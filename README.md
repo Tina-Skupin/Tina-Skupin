@@ -1,6 +1,5 @@
 ## About Me :smile:
-
-this page is still under construction and very much not done. 
+ 
 
 Hi, I’m Tina Skupin! Self-taught developer with a passion for problem-solving, I bring creativity and organization to every project I tackle. With experience in Python and Go, I thrive on transforming ideas into functional, well-structured solutions and am always eager to explore new challenges in the tech world.
 - :seedling: I’m currently exploring **Javascript** and **Software Testing**.
